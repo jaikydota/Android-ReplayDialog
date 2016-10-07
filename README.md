@@ -5,8 +5,8 @@
 This is a bottom replay Dialog for Android.<br>
 If you need to know about faceview information, please click here: https://github.com/jaikydota/Android-FaceView<br>
 
-Chinese blog address: http://blog.csdn.net/jaikydota163/article/details/52098851<br>
-项目中文博客地址：http://blog.csdn.net/jaikydota163/article/details/52098851<br>
+Chinese blog address: http://blog.csdn.net/jaikydota163/article/details/52098869<br>
+项目中文博客地址：http://blog.csdn.net/jaikydota163/article/details/52098869<br>
 
 
 ###*About Information*
